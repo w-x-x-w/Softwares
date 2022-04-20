@@ -1,5 +1,5 @@
-# Apps
- App made with Python
+# Softwares
+Softwares made with Python
 ## 目录
 * 抖音视频下载(无水印)
 * 公众号文章文本爬取
